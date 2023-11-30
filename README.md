@@ -1,1 +1,1 @@
-# ML_TermProject
+# Gachon University [Machine Learning Term Project]
