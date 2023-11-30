@@ -1,7 +1,7 @@
 # Gachon University [Machine Learning Term Project]
 Director : Prof. Won Kim
 
-Students : Hobin Hwang, Gahyun Kim, Sengwoo Han, Yongho Bae
+Developers : Hobin Hwang, Gahyun Kim, Sengwoo Han, Yongho Bae
 
 # Subject 
 Music Recommendation System
