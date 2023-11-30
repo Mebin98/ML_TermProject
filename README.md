@@ -93,14 +93,14 @@ Music Recommendation System
     Spectral
     DBSCAN
 
-    <Clustering Result>
-    Spectral
-    <img width="848" alt="spectral_clustering" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/1739d63c-2308-475d-8a05-16a9d8e81f37">
-    <img width="856" alt="spectral_evaluation" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/b7cb7860-35f6-4d14-ba01-e0f0a646fb1a">
+<Clustering Result>
+Spectral
+<img width="848" alt="spectral_clustering" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/1739d63c-2308-475d-8a05-16a9d8e81f37">
+<img width="856" alt="spectral_evaluation" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/b7cb7860-35f6-4d14-ba01-e0f0a646fb1a">
 
-    KMeans
-    <img width="1541" alt="KMeans_Cluster_1" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/25b18d1d-e12a-43d2-88c3-58f2e3d7f62e">
-    ![KMeans_Evaluation_1](https://github.com/Mebin98/ML_TermProject/assets/121173175/a6b0512c-afff-47b6-bcca-1c877fab3477)
+KMeans
+<img width="1541" alt="KMeans_Cluster_1" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/25b18d1d-e12a-43d2-88c3-58f2e3d7f62e">
+![KMeans_Evaluation_1](https://github.com/Mebin98/ML_TermProject/assets/121173175/a6b0512c-afff-47b6-bcca-1c877fab3477)
     
 
 
