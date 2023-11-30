@@ -19,59 +19,35 @@ Music Recommendation System
 (1) Feature Explanations
 
     Spotify dataset have 19 features as follows:
-
     valence : The brightness level of the track (higher values indicate a brighter and happier sound, while lower values suggest a sadder and more melancholic tone).
-
     year  : Release year
-    
     acousticness : range 0~1, degree of closeness to pure sound.![image](https://github.com/Mebin98/ML_TermProject/assets/121173175/97349681-6c29-49c7-9b56-fea83ecd4706)
-
     Artists : Singer or composer
-
     danceability : range 0~1, the bigger, better for dancing!
-
     duration_ms : length of music
-
     energy : 0~1 range, Faster and more flamboyant, the value increases with more noise.
-
     explicit : 1 or 0, whether not good for children or else.
-
     id : primary key of music
-
     instrumentalness : degree of vocals in the song
-
     key : mapping using the standard pitch class notation
-
     liveness : the degree of liveness of the song, the value is higher for live recordings.
-
     loudness : the degree of brilliance/loudness of the song
-
     mode : major(0), minor(1)
-
     name : name of the music
-
     popularity : range 0~100
-
     release_date : release_date of music
-
     speechiness : degree of saying
-
     tempo : BPM
-
     cluster : cluster of music (will be allocated through clustering algorithm)
 
 (2) User`s data
 
     Unfortunately, Spotify doesn`t provide user`s data. So we created user`s dataset by ourselves. 
-
     User`s data has 4 features as follows:
-
+    
     user_id : primary key of user
-
     listen_num : number of times listened to this song
-
     Music_id : foregin key of user data(primary key of music data) 
-
     clsuter of music : cluster of music (will be allocated through clustering algorithm)
 
 # Data Preprocessing
