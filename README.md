@@ -103,6 +103,7 @@ KMeans
 # Modeling 
 
 Recommendation System Algorithm
+
     1. Collaborative Filtering(User-Based)
     2. Collaborative Filtering(Item-Based)
     3. Item content`s Based
