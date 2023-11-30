@@ -76,7 +76,7 @@ Spectral
 KMeans
 <img width="872" alt="image" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/ad9038e4-a287-48ee-b9f1-caf105f2276d">
 
-We selected the combinations(KMeans, Normalizer, k=4) based on direction of clusters!
+We selected the combination(KMeans, Normalizer, k=4) based on direction of clusters!
 
 <img width="339" alt="normal" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/81b8df10-8a6d-4e44-a71c-873772e89f98">
 
