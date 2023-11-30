@@ -75,7 +75,14 @@ Music Recommendation System
     clsuter of music : cluster of music (will be allocated through clustering algorithm)
 
 # Data Preprocessing
-![normal_k2_3d](https://github.com/Mebin98/ML_TermProject/assets/121173175/f378f733-c813-46f9-bf51-95677585d45a)
+(1) Data update with Spotify Open API
+[Spotify Open API](https://spotipy.readthedocs.io/en/2.16.0/)
+
+(2) Data Filtering through Clustering
+
+    <Scaling>
+    
+
 
 
     
