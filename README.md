@@ -74,7 +74,8 @@ Music Recommendation System
 
     clsuter of music : cluster of music (will be allocated through clustering algorithm)
 
-
+# Data Preprocessing
+![normal_k2_3d](https://github.com/Mebin98/ML_TermProject/assets/121173175/f378f733-c813-46f9-bf51-95677585d45a)
 
 
     
