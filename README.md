@@ -1,5 +1,6 @@
 # Gachon University [Machine Learning Term Project]
 Director : Prof. Won Kim
+
 Students : Hobin Hwang, Gahyun Kim, Sengwoo Han, Yongho Bae
 
 # Subject 
@@ -11,6 +12,6 @@ Music Recommendation System
 3. Not just considering ratings for music, but making recommendations by taking into account the diverse characteristics of users and the features of items.
 
 # Data
-https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset
+[Spotify Dataset](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset)
 
 
