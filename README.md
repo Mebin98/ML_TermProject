@@ -61,6 +61,7 @@ Music Recommendation System
     cluster : cluster of music (will be allocated through clustering algorithm)
 
 (2) User`s data
+
 Unfortunately, Spotify doesn`t provide user`s data. 
 
 So we created user`s dataset by ourselves. 
