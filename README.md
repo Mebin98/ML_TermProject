@@ -81,6 +81,11 @@ Music Recommendation System
 (2) Data Filtering through Clustering
 
     <Scaling>
+    MinMaxScaling
+    StandardScaling
+    Normalizer
+    QuantileTransformer
+    RobustScaling
     
 
 
