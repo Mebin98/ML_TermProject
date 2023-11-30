@@ -100,6 +100,14 @@ Spectral
 KMeans
 <img width="872" alt="image" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/ad9038e4-a287-48ee-b9f1-caf105f2276d">
 
+# Modeling 
+
+Recommendation System Algorithm
+    1. Collaborative Filtering(User-Based)
+    2. Collaborative Filtering(Item-Based)
+    3. Item content`s Based
+
+
     
 
 
