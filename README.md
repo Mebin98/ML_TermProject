@@ -62,19 +62,17 @@ Music Recommendation System
 
 (2) User`s data
 
-Unfortunately, Spotify doesn`t provide user`s data. 
+    Unfortunately, Spotify doesn`t provide user`s data. So we created user`s dataset by ourselves. 
 
-So we created user`s dataset by ourselves. 
+    User`s data has 4 features as follows:
 
-User`s data has 4 features as follows:
+    user_id : primary key of user
 
-user_id : primary key of user
+    listen_num : number of times listened to this song
 
-listen_num : number of times listened to this song
+    Music_id : foregin key of user data(primary key of music data) 
 
-Music_id : foregin key of user data(primary key of music data) 
-
-clsuter of music : cluster of music (will be allocated through clustering algorithm)
+    clsuter of music : cluster of music (will be allocated through clustering algorithm)
 
 
 
