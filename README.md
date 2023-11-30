@@ -68,8 +68,7 @@ Music Recommendation System
     Clarans
     Spectral
     DBSCAN
-
-<Clustering Result>
+**Clustering Result**
 Spectral
 <img width="869" alt="image" src="https://github.com/Mebin98/ML_TermProject/assets/121173175/445a7758-3a07-459c-bdf5-296afc3a4153">
 
