@@ -145,7 +145,10 @@ C:.
         storage_handler.py
 ```
 
-# Installation(For normal version)
+# Application Installation(For normal version)
+
+![image](https://github.com/Mebin98/ML_TermProject/assets/121173175/7f10ef41-bf31-4c54-bb19-304076cadb4e)
+![image](https://github.com/Mebin98/ML_TermProject/assets/121173175/400c3199-2ebf-41be-87e3-e7f9df341f86)
 
 We made recommendation system web.
 
