@@ -193,7 +193,7 @@ You must make sure that all the files be in same directory!
 
 [SageMaker version](https://www.youtube.com/watch?v=j3ih_GLqEP4)
 
-[Normal version](https://www.youtube.com/watch?v=8t1X40do7lg)
+[Normal version](https://www.youtube.com/watch?v=IKa8qUe26D4)
 
 
 # Contributors
