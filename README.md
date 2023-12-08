@@ -90,8 +90,60 @@ Recommendation System Algorithm
     2. Collaborative Filtering(Item-Based)
     3. Item content`s Based
 
+# Structure
 
-    
+```
+C:.
+|   README.md
+|   spotify.csv
+|
++---Clustering
+|       Clarans_Clustering.py
+|       DBSCAN_Clustering.py
+|       KMeans_Clustering.py
+|       selected_normalized_data_k3.csv
+|       selected_normalized_data_k4.csv
+|       selected_normalized_data_k5.csv
+|       Spectral_Clustering.py
+|
++---Modeling
+|   +---Collaborative_Item
+|   |       ItemBased.py
+|   |       ItemBased_Sampling.py
+|   |
+|   +---Collaborative_User
+|   |       Userbased_Cluster0_ALL.py
+|   |       Userbased_Cluster0_Cluster0.py
+|   |       Userbased_Cluster1_ALL.py
+|   |       Userbased_Cluster1_Cluster1.py
+|   |       Userbased_Neighbors.py
+|   |
+|   \---ItemContents
+|           ItemContents_Without_Clustering.py
+|           ItemContents_With_Clustering.py
+|           ItemContent_Revised.py
+|
++---Preprocessing
+|   |   Spotify_Preprocessing.py
+|   |
+|   \---csvFile
+|           scaled_data_minmax.csv
+|           scaled_data_normalizer.csv
+|           scaled_data_quantile.csv
+|           scaled_data_robust.csv
+|           scaled_data_standard.csv
+|
++---streamlit
+|       contentBased.py
+|       main.py
+|       server.py
+|
+\---streamlit_SageMaker
+        contentBased.py
+        main.py
+        server.py
+        storage_handler.py
+```
 
 
 
