@@ -100,7 +100,7 @@ C:.
 +---Clustering
 |       Clarans_Clustering.py 
 |       DBSCAN_Clustering.py
-|       KMeans_Clustering.py
+|       KMeans_Clustering.py // Selected Algorithm
 |       selected_normalized_data_k3.csv // KMeans, k=3, Normalizer
 |       selected_normalized_data_k4.csv // KMeans, k=4, Noramlizer
 |       selected_normalized_data_k5.csv // KMeans, k=4, Normalizer
@@ -124,7 +124,7 @@ C:.
 |           ItemContent_Revised.py // Final code of Item contents based
 |
 +---Preprocessing
-|   |   Spotify_Preprocessing.py
+|   |   Spotify_Preprocessing.py // Preprocessing code before clustering
 |   |
 |   \---csvFile
 |           scaled_data_minmax.csv
@@ -142,7 +142,7 @@ C:.
         contentBased.py
         main.py
         server.py
-        storage_handler.py
+        storage_handler.py // This is for s3 instance.
 ```
 
 # Application Installation(For normal version)
