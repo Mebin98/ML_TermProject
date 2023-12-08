@@ -90,7 +90,7 @@ Recommendation System Algorithm
     2. Collaborative Filtering(Item-Based) <RMSE : 6.028>
     3. Item content`s Based <RMSE : 4.180>
     
-# Structure
+# Program Structure
 
 ```
 C:.
@@ -98,30 +98,30 @@ C:.
 |   spotify.csv
 |
 +---Clustering
-|       Clarans_Clustering.py
+|       Clarans_Clustering.py 
 |       DBSCAN_Clustering.py
 |       KMeans_Clustering.py
-|       selected_normalized_data_k3.csv
-|       selected_normalized_data_k4.csv
-|       selected_normalized_data_k5.csv
+|       selected_normalized_data_k3.csv // KMeans, k=3, Normalizer
+|       selected_normalized_data_k4.csv // KMeans, k=4, Noramlizer
+|       selected_normalized_data_k5.csv // KMeans, k=4, Normalizer
 |       Spectral_Clustering.py
 |
 +---Modeling
 |   +---Collaborative_Item
-|   |       ItemBased.py
-|   |       ItemBased_Sampling.py
+|   |       ItemBased.py  // Item based Recommendation Code(Memory Error)
+|   |       ItemBased_Sampling.py // Alternative code(Sampling)
 |   |
 |   +---Collaborative_User
-|   |       Userbased_Cluster0_ALL.py
-|   |       Userbased_Cluster0_Cluster0.py
-|   |       Userbased_Cluster1_ALL.py
-|   |       Userbased_Cluster1_Cluster1.py
-|   |       Userbased_Neighbors.py
+|   |       Userbased_Cluster0_ALL.py // (Music data : Cluster0, User data : ALL)
+|   |       Userbased_Cluster0_Cluster0.py // (Music data : Cluster0, User data : cluster 0 most)
+|   |       Userbased_Cluster1_ALL.py // (Music data : Cluster1, User data : ALL)
+|   |       Userbased_Cluster1_Cluster1.py // (Music data : Cluster1, User data : cluster 1 most)
+|   |       Userbased_Neighbors.py 
 |   |
 |   \---ItemContents
 |           ItemContents_Without_Clustering.py
 |           ItemContents_With_Clustering.py
-|           ItemContent_Revised.py
+|           ItemContent_Revised.py // Final code of Item contents based
 |
 +---Preprocessing
 |   |   Spotify_Preprocessing.py
@@ -133,12 +133,12 @@ C:.
 |           scaled_data_robust.csv
 |           scaled_data_standard.csv
 |
-+---streamlit
++---streamlit // Normal version for web
 |       contentBased.py
 |       main.py
 |       server.py
 |
-\---streamlit_SageMaker
+\---streamlit_SageMaker // Web for SageMaker version
         contentBased.py
         main.py
         server.py
