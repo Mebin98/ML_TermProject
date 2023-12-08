@@ -147,6 +147,9 @@ C:.
 
 # Installation(For normal version)
 
+We made recommendation system web.
+
+This applies our system of Item contents based.
 
 
 First, you must install the libraries as follows:
