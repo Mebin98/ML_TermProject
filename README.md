@@ -145,6 +145,42 @@ C:.
         storage_handler.py
 ```
 
+# Installation(For normal version)
+
+First, you must install the libraries as follows:
+
+```
+pip install spotipy
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install streamlit
+pip install requests
+pip install matplotlib
+pip install fastapi
+pip install uvicorn
+pip install starlette
+```
+
+Then, open terminal at admin mode.
+
+```
+uvicorn server:app --reload
+```
+
+Then, open an another terminal.
+
+```
+streamlit run main.py
+```
+
+You must make sure that all the files be in same direcotory!
+
+
+# Youtube Demo(SageMaker Version)
+
+[Youtube Demo](https://www.youtube.com/watch?v=j3ih_GLqEP4)
+
 
 
 
