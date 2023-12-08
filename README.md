@@ -193,8 +193,14 @@ You must make sure that all the files be in same directory!
 [Normal version](https://www.youtube.com/watch?v=8t1X40do7lg)
 
 
+# Contributors
 
-
+```
+AWS SageMaker
+Youtube
+Spotify
+etc...
+```
 
     
 
