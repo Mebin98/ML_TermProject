@@ -147,6 +147,8 @@ C:.
 
 # Installation(For normal version)
 
+
+
 First, you must install the libraries as follows:
 
 ```
@@ -178,7 +180,7 @@ Then, open an another terminal.
 streamlit run main.py
 ```
 
-You must make sure that all the files be in same direcotory!
+You must make sure that all the files be in same directory!
 
 
 # Youtube Demo(SageMaker Version)
