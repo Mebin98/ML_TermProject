@@ -162,6 +162,10 @@ pip install uvicorn
 pip install starlette
 ```
 
+Then, install 'streamlit' direcotory!
+
+Also, you must install spotify dataset then it should be in streamlit direcotry.
+
 Then, open terminal at admin mode.
 
 ```
