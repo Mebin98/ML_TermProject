@@ -86,10 +86,10 @@ We selected the combination(KMeans, Normalizer, k=4) based on direction of clust
 
 Recommendation System Algorithm
 
-    1. Collaborative Filtering(User-Based)
-    2. Collaborative Filtering(Item-Based)
-    3. Item content`s Based
-
+    1. Collaborative Filtering(User-Based) <RMSE : 4.247~4.933>
+    2. Collaborative Filtering(Item-Based) <RMSE : 6.028>
+    3. Item content`s Based <RMSE : 4.180>
+    
 # Structure
 
 ```
